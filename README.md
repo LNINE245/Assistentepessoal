@@ -6,7 +6,7 @@ Foco:
      Rapido
 
 tecnologias:
-            reconhecimento de voz: google 
+            reconhecimento de voz: (google para reconhecimento online, vosk para reconhecimento offline) 
             sintese de voz 
             Algum tipo de IA
             
